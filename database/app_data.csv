@@ -1,0 +1,427 @@
+2026-05-12 22:02:55.870077,Code.exe,20.02
+2026-05-12 22:02:57.023563,chrome.exe
+2026-05-12 22:03:00.875541,chrome.exe,5.0
+2026-05-12 22:03:02.027064,Code.exe
+2026-05-12 22:03:12.033931,chrome.exe
+2026-05-12 22:03:13.599210,Code.exe,10.02
+2026-05-12 22:03:15.887245,Code.exe,15.01
+2026-05-12 22:03:20.888820,chrome.exe,5.0
+2026-05-12 22:03:22.047561,explorer.exe
+2026-05-12 22:03:25.891897,Code.exe,5.0
+2026-05-12 22:03:27.051138,chrome.exe
+2026-05-12 22:03:28.606516,chrome.exe,15.01
+2026-05-12 22:03:30.895401,chrome.exe,5.0
+2026-05-12 22:03:32.053828,Code.exe
+2026-05-12 22:03:35.898414,Code.exe,5.0
+2026-05-12 22:03:37.057545,chrome.exe
+2026-05-12 22:03:40.900166,chrome.exe,5.0
+2026-05-12 22:03:42.059184,Code.exe
+2026-05-12 22:03:48.621375,Code.exe,20.01
+2026-05-12 22:03:50.910009,Code.exe,10.01
+2026-05-12 22:03:52.064522,msedge.exe
+2026-05-12 22:04:00.915607,msedge.exe,10.01
+2026-05-12 22:04:02.079109,explorer.exe
+2026-05-12 22:04:03.637791,msedge.exe,15.01
+2026-05-12 22:04:05.924948,Code.exe,5.01
+2026-05-12 22:04:07.082665,WhatsApp.Root.exe
+2026-05-12 22:04:10.930285,WhatsApp.Root.exe,5.0
+2026-05-12 22:04:12.085862,chrome.exe
+2026-05-12 22:04:13.648867,explorer.exe,10.01
+2026-05-12 22:04:23.655126,chrome.exe,10.01
+2026-05-12 22:04:25.941848,chrome.exe,15.01
+2026-05-12 22:04:27.098807,msedge.exe
+2026-05-12 22:04:28.660665,Code.exe,5.0
+2026-05-12 22:04:40.955482,msedge.exe,15.01
+2026-05-12 22:04:42.116917,chrome.exe
+2026-05-12 22:04:43.679663,msedge.exe,15.02
+2026-05-12 22:04:45.961182,Code.exe,5.0
+2026-05-12 22:04:55.968177,chrome.exe,10.01
+2026-05-12 22:04:57.129750,Code.exe
+2026-05-12 22:04:58.690720,chrome.exe,15.01
+2026-05-12 22:05:00.978349,Code.exe,5.01
+2026-05-12 22:05:02.134521,chrome.exe
+2026-05-12 22:05:03.696295,Code.exe,5.0
+2026-05-12 22:05:05.990298,chrome.exe,5.01
+2026-05-12 22:05:07.144374,msedge.exe
+2026-05-12 22:05:08.700488,chrome.exe,5.0
+2026-05-12 22:05:11.002886,msedge.exe,5.01
+2026-05-12 22:05:12.147122,Code.exe
+2026-05-12 22:05:13.707938,msedge.exe,5.01
+2026-05-12 22:05:16.005866,explorer.exe,5.0
+2026-05-12 22:05:22.155851,chrome.exe
+2026-05-12 22:05:23.720534,Code.exe,10.01
+2026-05-12 22:05:26.012524,Code.exe,10.01
+2026-05-12 22:05:27.160695,ShellExperienceHost.exe
+2026-05-12 22:05:32.163502,Code.exe
+2026-05-12 22:05:33.727804,chrome.exe,10.01
+2026-05-12 22:05:36.023493,chrome.exe,10.01
+2026-05-12 22:05:37.168272,explorer.exe
+2026-05-12 22:05:38.735658,Code.exe,5.01
+2026-05-12 22:05:41.038185,Code.exe,5.01
+2026-05-12 22:05:42.174092,msedge.exe
+2026-05-12 22:05:48.747364,msedge.exe,10.01
+2026-05-12 22:05:51.053278,msedge.exe,10.01
+2026-05-12 22:05:52.179955,Code.exe
+2026-05-12 22:05:53.751491,Code.exe,5.0
+2026-05-12 22:05:56.058180,Code.exe,5.0
+2026-05-12 22:05:57.184214,msedge.exe
+2026-05-12 22:05:58.756479,msedge.exe,5.0
+2026-05-12 22:06:01.065298,msedge.exe,5.01
+2026-05-12 22:06:02.189095,chrome.exe
+2026-05-12 22:06:03.760825,explorer.exe,5.0
+2026-05-12 22:06:13.777693,chrome.exe,10.02
+2026-05-12 22:06:16.078299,chrome.exe,15.01
+2026-05-12 22:06:17.201712,Code.exe
+2026-05-12 22:06:18.783577,explorer.exe,5.0
+2026-05-12 22:06:22.204378,explorer.exe
+2026-05-12 22:06:23.788331,Code.exe,5.0
+2026-05-12 22:06:26.085565,Code.exe,10.01
+2026-05-12 22:06:27.214608,chrome.exe
+2026-05-12 22:06:28.795736,chrome.exe,5.01
+2026-05-12 22:06:31.090204,chrome.exe,5.0
+2026-05-12 22:06:32.223212,Code.exe
+2026-05-12 22:06:33.799384,explorer.exe,5.0
+2026-05-12 22:06:37.228382,explorer.exe
+2026-05-12 22:06:38.803484,Code.exe,5.0
+2026-05-12 22:06:41.099662,Code.exe,10.01
+2026-05-12 22:06:42.239495,chrome.exe
+2026-05-12 22:06:51.107836,chrome.exe,10.01
+2026-05-12 22:06:52.252816,Code.exe
+2026-05-12 22:06:53.819829,chrome.exe,15.02
+2026-05-12 22:07:02.261902,msedge.exe
+2026-05-12 22:07:03.827712,Code.exe,10.01
+2026-05-12 22:07:06.119023,Code.exe,15.01
+2026-05-12 22:07:08.831325,msedge.exe,5.0
+2026-05-12 22:07:11.122626,msedge.exe,5.0
+2026-05-12 22:07:12.272808,chrome.exe
+2026-05-12 22:07:13.840778,explorer.exe,5.01
+2026-05-12 22:07:23.849170,chrome.exe,10.01
+2026-05-12 22:07:26.130189,chrome.exe,15.01
+2026-05-12 22:07:27.280004,Code.exe
+2026-05-12 22:07:36.140343,Code.exe,10.01
+2026-05-12 22:07:37.293648,chrome.exe
+2026-05-12 22:07:38.865136,Code.exe,15.01
+2026-05-12 22:07:53.875461,chrome.exe,15.01
+2026-05-12 22:08:01.158983,chrome.exe,25.02
+2026-05-12 22:08:02.309255,Code.exe
+2026-05-12 22:08:03.889695,Code.exe,10.01
+2026-05-12 22:08:06.163770,Code.exe,5.0
+2026-05-12 22:08:07.316334,msedge.exe
+2026-05-12 22:08:08.906108,explorer.exe,5.01
+2026-05-12 22:39:45.403746,Code.exe,10.01
+2026-05-12 22:39:50.412771,chrome.exe,5.01
+2026-05-12 22:39:55.420564,Code.exe,5.01
+2026-05-12 22:40:00.426343,msedge.exe,5.0
+2026-05-12 22:40:05.429775,explorer.exe,5.0
+2026-05-12 22:40:15.444804,msedge.exe,10.01
+2026-05-12 22:40:25.456512,Code.exe,10.01
+2026-05-12 22:40:30.463838,netbeans64.exe,5.01
+2026-05-12 22:40:35.476598,explorer.exe,5.01
+2026-05-12 22:40:45.491921,Code.exe,10.01
+2026-05-12 22:41:00.507493,explorer.exe,15.01
+2026-05-12 22:41:05.509851,SearchHost.exe,5.0
+2026-05-12 22:41:25.525039,Notepad.exe,20.01
+2026-05-12 22:41:30.532045,explorer.exe,5.01
+2026-05-12 22:41:40.543238,Code.exe,10.01
+2026-05-12 22:41:45.547653,SearchHost.exe,5.0
+2026-05-12 22:41:50.558045,ApplicationFrameHost.exe,5.01
+2026-05-12 22:42:25.607694,Code.exe,35.05
+2026-05-12 22:43:05.645970,msedge.exe,40.04
+2026-05-12 22:44:35.736884,chrome.exe,90.09
+2026-05-12 22:44:40.744770,explorer.exe,5.01
+2026-05-12 22:44:45.751662,Code.exe,5.01
+2026-05-12 22:44:55.759633,chrome.exe,10.01
+2026-05-12 22:45:05.771866,Code.exe,10.01
+2026-05-12 22:45:15.789648,chrome.exe,10.02
+2026-05-12 22:45:20.792551,Code.exe,5.0
+2026-05-12 22:45:35.810197,msedge.exe,15.02
+2026-05-12 22:45:45.826196,chrome.exe,10.01
+2026-05-12 22:45:55.839365,Code.exe,10.01
+2026-05-12 22:46:00.848316,chrome.exe,5.01
+2026-05-12 22:46:15.870597,Code.exe,15.02
+2026-05-12 22:47:10.972082,chrome.exe,55.1
+2026-05-12 22:47:15.975193,Code.exe,5.0
+2026-05-12 22:47:20.983251,chrome.exe,5.01
+2026-05-12 22:47:36.006888,Code.exe,15.02
+2026-05-12 22:48:06.038921,chrome.exe,30.03
+2026-05-12 22:48:11.049613,Code.exe,5.01
+2026-05-12 22:48:41.096497,chrome.exe,30.04
+2026-05-12 22:48:51.107158,Code.exe,10.01
+2026-05-12 22:49:41.153167,msedge.exe,50.04
+2026-05-12 22:50:11.189611,chrome.exe,30.03
+2026-05-12 22:50:16.203744,Code.exe,5.01
+2026-05-12 22:50:26.294651,chrome.exe,10.01
+2026-05-12 22:50:31.301179,Code.exe,5.01
+2026-05-12 22:50:41.316713,chrome.exe,10.01
+2026-05-12 22:50:46.326596,Code.exe,5.01
+2026-05-12 22:50:51.330046,chrome.exe,5.0
+2026-05-12 22:51:01.343230,Code.exe,10.01
+2026-05-12 22:51:11.353440,chrome.exe,10.01
+2026-05-12 22:51:16.359930,explorer.exe,5.0
+2026-05-12 22:51:41.395821,msedge.exe,25.03
+2026-05-12 22:51:46.410263,explorer.exe,5.01
+2026-05-12 22:52:06.439979,chrome.exe,20.03
+2026-05-12 22:52:21.464389,WhatsApp.Root.exe,15.02
+2026-05-12 22:53:06.525596,chrome.exe,45.06
+2026-05-12 22:53:11.537968,WhatsApp.Root.exe,5.01
+2026-05-12 22:53:31.556540,chrome.exe,20.02
+2026-05-12 22:53:36.563054,WhatsApp.Root.exe,5.0
+2026-05-12 22:53:51.581969,chrome.exe,15.02
+2026-05-12 22:53:56.588119,WhatsApp.Root.exe,5.0
+2026-05-12 22:54:06.597391,chrome.exe,10.01
+2026-05-12 22:54:11.604337,Code.exe,5.01
+2026-05-12 22:54:16.615457,chrome.exe,5.01
+2026-05-12 22:54:21.621101,Code.exe,5.0
+2026-05-12 22:54:36.634650,msedge.exe,15.01
+2026-05-12 22:54:41.640319,explorer.exe,5.0
+2026-05-12 22:55:01.656812,msedge.exe,20.02
+2026-05-12 22:55:41.713075,WhatsApp.Root.exe,40.05
+2026-05-12 22:55:46.722484,msedge.exe,5.01
+2026-05-12 22:55:51.730569,chrome.exe,5.01
+2026-05-12 22:55:56.734903,explorer.exe,5.0
+2026-05-12 22:56:06.746718,Code.exe,10.01
+2026-05-12 22:56:11.752276,msedge.exe,5.0
+2026-05-12 22:56:26.775047,chrome.exe,15.02
+2026-05-12 22:57:16.820569,msedge.exe,50.04
+2026-05-12 22:57:21.824644,explorer.exe,5.0
+2026-05-12 22:57:51.854611,msedge.exe,30.03
+2026-05-12 22:57:56.861829,explorer.exe,5.01
+2026-05-12 22:58:01.864372,OpenWith.exe,5.0
+2026-05-12 22:58:06.868748,explorer.exe,5.0
+2026-05-12 22:58:36.900426,EXCEL.EXE,30.03
+2026-05-12 22:59:36.968600,msedge.exe,60.06
+2026-05-12 22:59:41.974033,ApplicationFrameHost.exe,5.0
+2026-05-12 22:59:46.984804,msedge.exe,5.01
+2026-05-12 22:59:51.992024,explorer.exe,5.0
+2026-05-12 22:59:57.003026,Notepad.exe,5.01
+2026-05-12 23:00:57.084172,chrome.exe,60.08
+2026-05-12 23:01:02.090823,Code.exe,5.0
+2026-05-12 23:01:07.099738,chrome.exe,5.01
+2026-05-12 23:01:17.111631,Code.exe,10.01
+2026-05-12 23:02:02.157110,msedge.exe,45.04
+2026-05-12 23:02:12.172316,chrome.exe,10.01
+2026-05-12 23:02:17.182773,msedge.exe,5.01
+2026-05-12 23:03:17.265611,chrome.exe,60.08
+2026-05-12 23:03:32.319143,msedge.exe,15.02
+2026-05-12 23:04:17.436812,chrome.exe,45.05
+2026-05-12 23:04:22.444399,explorer.exe,5.0
+2026-05-12 23:04:32.461184,Code.exe,10.01
+2026-05-12 23:04:37.470684,chrome.exe,5.01
+12:05:26 23:04:47,System Idle Process,5
+12:05:26 23:05:17,System Idle Process,5
+12:05:26 23:05:22,System Idle Process,5
+12:05:26 23:05:27,System Idle Process,5
+12:05:26 23:05:32,System Idle Process,5
+12:05:26 23:05:37,System Idle Process,5
+12:05:26 23:05:42,System Idle Process,5
+12:05:26 23:05:47,System Idle Process,5
+12:05:26 23:05:52,System Idle Process,5
+12:05:26 23:05:57,System Idle Process,5
+12:05:26 23:06:02,System Idle Process,5
+12:05:26 23:06:07,System Idle Process,5
+12:05:26 23:06:12,System Idle Process,5
+12:05:26 23:06:17,System Idle Process,5
+12:05:26 23:06:22,System Idle Process,5
+12:05:26 23:06:27,System Idle Process,5
+12:05:26 23:06:32,System Idle Process,5
+12:05:26 23:06:37,System Idle Process,5
+12:05:26 23:06:42,System Idle Process,5
+12:05:26 23:06:47,System Idle Process,5
+12:05:26 23:06:52,System Idle Process,5
+12:05:26 23:06:57,System Idle Process,5
+12:05:26 23:07:02,System Idle Process,5
+12:05:26 23:07:07,System Idle Process,5
+12:05:26 23:07:12,System Idle Process,5
+12:05:26 23:07:17,System Idle Process,5
+12:05:26 23:07:22,System Idle Process,5
+12:05:26 23:07:27,System Idle Process,5
+12:05:26 23:07:32,System Idle Process,5
+12:05:26 23:07:37,System Idle Process,5
+12:05:26 23:07:42,System Idle Process,5
+12:05:26 23:07:47,System Idle Process,5
+12:05:26 23:07:52,System Idle Process,5
+12:05:26 23:07:57,System Idle Process,5
+12:05:26 23:08:02,System Idle Process,5
+12:05:26 23:08:07,System Idle Process,5
+12:05:26 23:08:16,System Idle Process,5
+12:05:26 23:08:37,System Idle Process,5
+12:05:26 23:08:42,System Idle Process,5
+12:05:26 23:08:47,System Idle Process,5
+12:05:26 23:08:52,System Idle Process,5
+12:05:26 23:08:57,System Idle Process,5
+12:05:26 23:09:02,System Idle Process,5
+12:05:26 23:09:07,System Idle Process,5
+12:05:26 23:09:12,System Idle Process,5
+12:05:26 23:09:17,System Idle Process,5
+12:05:26 23:09:22,System Idle Process,5
+12:05:26 23:09:27,System Idle Process,5
+12:05:26 23:09:32,System Idle Process,5
+12:05:26 23:09:37,System Idle Process,5
+12:05:26 23:09:42,System Idle Process,5
+12:05:26 23:09:47,System Idle Process,5
+12:05:26 23:09:52,System Idle Process,5
+12:05:26 23:09:57,System Idle Process,5
+12:05:26 23:10:02,System Idle Process,5
+12:05:26 23:10:07,System Idle Process,5
+12:05:26 23:10:12,System Idle Process,5
+12:05:26 23:10:17,System Idle Process,5
+12:05:26 23:10:22,System Idle Process,5
+12:05:26 23:10:27,System Idle Process,5
+12:05:26 23:10:32,System Idle Process,5
+12:05:26 23:10:37,System Idle Process,5
+12:05:26 23:10:42,System Idle Process,5
+12:05:26 23:10:47,System Idle Process,5
+12:05:26 23:10:52,System Idle Process,5
+12:05:26 23:10:57,System Idle Process,5
+12:05:26 23:11:02,System Idle Process,5
+12:05:26 23:11:07,System Idle Process,5
+12:05:26 23:11:12,System Idle Process,5
+12:05:26 23:11:17,System Idle Process,5
+12:05:26 23:11:22,System Idle Process,5
+12:05:26 23:11:27,System Idle Process,5
+12:05:26 23:11:32,System Idle Process,5
+12:05:26 23:11:37,System Idle Process,5
+12:05:26 23:11:42,System Idle Process,5
+12:05:26 23:11:47,System Idle Process,5
+12:05:26 23:11:52,System Idle Process,5
+12:05:26 23:11:57,System Idle Process,5
+12:05:26 23:12:02,System Idle Process,5
+12:05:26 23:12:07,System Idle Process,5
+12:05:26 23:12:12,System Idle Process,5
+12:05:26 23:12:17,System Idle Process,5
+12:05:26 23:12:22,System Idle Process,5
+12:05:26 23:12:27,System Idle Process,5
+12:05:26 23:12:32,System Idle Process,5
+12:05:26 23:12:37,System Idle Process,5
+12:05:26 23:12:42,System Idle Process,5
+12:05:26 23:12:47,System Idle Process,5
+12:05:26 23:12:52,System Idle Process,5
+12:05:26 23:12:57,System Idle Process,5
+12:05:26 23:13:02,System Idle Process,5
+12:05:26 23:13:07,System Idle Process,5
+12:05:26 23:13:12,System Idle Process,5
+12:05:26 23:13:17,System Idle Process,5
+12:05:26 23:13:22,System Idle Process,5
+12:05:26 23:13:27,System Idle Process,5
+12:05:26 23:13:32,System Idle Process,5
+12:05:26 23:13:37,System Idle Process,5
+12:05:26 23:13:42,System Idle Process,5
+12:05:26 23:13:47,System Idle Process,5
+12:05:26 23:13:52,System Idle Process,5
+12:05:26 23:13:57,System Idle Process,5
+12:05:26 23:14:02,System Idle Process,5
+12:05:26 23:14:07,System Idle Process,5
+12:05:26 23:14:12,System Idle Process,5
+12:05:26 23:14:17,System Idle Process,5
+12:05:26 23:14:22,System Idle Process,5
+12:05:26 23:14:27,System Idle Process,5
+12:05:26 23:14:32,System Idle Process,5
+12:05:26 23:14:37,System Idle Process,5
+12:05:26 23:14:42,System Idle Process,5
+12:05:26 23:14:47,System Idle Process,5
+12:05:26 23:14:52,System Idle Process,5
+12:05:26 23:14:57,System Idle Process,5
+12:05:26 23:15:02,System Idle Process,5
+12:05:26 23:15:07,System Idle Process,5
+12:05:26 23:15:12,System Idle Process,5
+12:05:26 23:15:17,System Idle Process,5
+12:05:26 23:15:22,System Idle Process,5
+12:05:26 23:15:27,System Idle Process,5
+12:05:26 23:15:32,System Idle Process,5
+12:05:26 23:15:37,System Idle Process,5
+12:05:26 23:15:42,System Idle Process,5
+12:05:26 23:15:47,System Idle Process,5
+12:05:26 23:15:52,System Idle Process,5
+12:05:26 23:15:57,System Idle Process,5
+12:05:26 23:16:02,System Idle Process,5
+12:05:26 23:16:07,System Idle Process,5
+12:05:26 23:16:12,System Idle Process,5
+12:05:26 23:16:17,System Idle Process,5
+12:05:26 23:16:22,System Idle Process,5
+12:05:26 23:16:27,System Idle Process,5
+12:05:26 23:16:32,System Idle Process,5
+12:05:26 23:16:37,System Idle Process,5
+12:05:26 23:16:42,System Idle Process,5
+12:05:26 23:16:47,System Idle Process,5
+12:05:26 23:16:52,System Idle Process,5
+12:05:26 23:16:57,System Idle Process,5
+12:05:26 23:17:02,System Idle Process,5
+12:05:26 23:17:07,System Idle Process,5
+12:05:26 23:17:12,System Idle Process,5
+12:05:26 23:17:17,System Idle Process,5
+12:05:26 23:17:22,System Idle Process,5
+12:05:26 23:17:27,System Idle Process,5
+12:05:26 23:17:32,System Idle Process,5
+12:05:26 23:17:37,System Idle Process,5
+12:05:26 23:17:42,System Idle Process,5
+12:05:26 23:17:47,System Idle Process,5
+12:05:26 23:17:52,System Idle Process,5
+12:05:26 23:17:57,System Idle Process,5
+12:05:26 23:18:02,System Idle Process,5
+12:05:26 23:18:07,System Idle Process,5
+12:05:26 23:18:12,System Idle Process,5
+12:05:26 23:18:17,System Idle Process,5
+12:05:26 23:18:22,System Idle Process,5
+12:05:26 23:18:27,System Idle Process,5
+12:05:26 23:18:32,System Idle Process,5
+12:05:26 23:18:37,System Idle Process,5
+12:05:26 23:18:42,System Idle Process,5
+12:05:26 23:18:47,System Idle Process,5
+12:05:26 23:18:52,System Idle Process,5
+12:05:26 23:18:57,System Idle Process,5
+12:05:26 23:19:02,System Idle Process,5
+12:05:26 23:19:07,System Idle Process,5
+12:05:26 23:19:12,System Idle Process,5
+12:05:26 23:19:17,System Idle Process,5
+12:05:26 23:19:22,System Idle Process,5
+12:05:26 23:19:27,System Idle Process,5
+12:05:26 23:19:32,System Idle Process,5
+12:05:26 23:19:37,System Idle Process,5
+12:05:26 23:19:42,System Idle Process,5
+12:05:26 23:19:47,System Idle Process,5
+12:05:26 23:19:52,System Idle Process,5
+12:05:26 23:19:57,System Idle Process,5
+12:05:26 23:20:02,System Idle Process,5
+12:05:26 23:20:07,System Idle Process,5
+12:05:26 23:20:12,System Idle Process,5
+12:05:26 23:20:17,System Idle Process,5
+12:05:26 23:20:22,System Idle Process,5
+12:05:26 23:20:27,System Idle Process,5
+12:05:26 23:20:32,System Idle Process,5
+12:05:26 23:20:37,System Idle Process,5
+12:05:26 23:20:42,System Idle Process,5
+12:05:26 23:20:47,System Idle Process,5
+12:05:26 23:20:52,System Idle Process,5
+12:05:26 23:20:57,System Idle Process,5
+12:05:26 23:21:02,System Idle Process,5
+12:05:26 23:21:07,System Idle Process,5
+12:05:26 23:21:12,System Idle Process,5
+12:05:26 23:21:17,System Idle Process,5
+12:05:26 23:21:22,System Idle Process,5
+12:05:26 23:21:27,System Idle Process,5
+12:05:26 23:21:32,System Idle Process,5
+12:05:26 23:21:37,System Idle Process,5
+12:05:26 23:21:42,System Idle Process,5
+12:05:26 23:21:47,System Idle Process,5
+12:05:26 23:21:52,System Idle Process,5
+12:05:26 23:21:57,System Idle Process,5
+12:05:26 23:22:02,System Idle Process,5
+12:05:26 23:22:07,System Idle Process,5
+12:05:26 23:22:12,System Idle Process,5
+12:05:26 23:22:17,System Idle Process,5
+12:05:26 23:22:22,System Idle Process,5
+12:05:26 23:22:27,System Idle Process,5
+12:05:26 23:22:32,System Idle Process,5
+12:05:26 23:22:37,System Idle Process,5
+12:05:26 23:22:42,System Idle Process,5
+12:05:26 23:22:47,System Idle Process,5
+12:05:26 23:22:52,System Idle Process,5
+12:05:26 23:22:57,System Idle Process,5
+12:05:26 23:23:02,System Idle Process,5
+12:05:26 23:23:07,System Idle Process,5
+12:05:26 23:23:12,System Idle Process,5
+12:05:26 23:23:17,System Idle Process,5
+12:05:26 23:23:22,System Idle Process,5
+12:05:26 23:23:27,System Idle Process,5
+12:05:26 23:23:32,System Idle Process,5
+12:05:26 23:23:37,System Idle Process,5
